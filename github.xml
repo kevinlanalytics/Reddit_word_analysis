@@ -3,8 +3,5 @@
     <account id="0bc108c8-081d-47b8-9fbd-89b1b16e0db9" name="lank@mymail.vcu.edu">
       <server host="github.com" />
     </account>
-    <account id="53bc24e2-a417-4b19-995e-e810f905738f" name="sonicboy66">
-      <server useHttp="false" host="github.com" />
-    </account>
   </component>
 </application>
